@@ -65,7 +65,7 @@ Glass and polished metal need a larger, softer source. A big diffused panel besi
 
 Correct white balance on the whole batch at once, crop every image to the same proportions and export as sRGB JPEG at the size your platform asks for. Keep the first frame of each session as a reference for brightness and colour.
 
-Product images also belong wherever your business is listed, for example in [a company directory](https://www.yellowmap.at/Details/ChaWECVVs2L4PetxRLPSqw==.aspx), next to your own shop pages. For a social profile that only allows one web address, [a simple link page](https://666742.8b.io/) can point to the full set.
+Product images also belong wherever your business has a profile, for example on [a startup platform](https://www.fundable.com/user-820159), next to your own shop pages. For a social profile that only allows one web address, [a simple link page](https://666742.8b.io/) can point to the full set.
 
 ## When is a home setup not enough?
 
