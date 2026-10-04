@@ -1,0 +1,24 @@
+# Site settings
+title: "The Exposure Log"
+description: "A photography logbook: notes on technique, light and the many fields of photography."
+url: "https://exposurelogjournal.github.io"
+baseurl: ""
+lang: en
+timezone: Europe/Berlin
+
+# Build settings
+theme: minima
+permalink: /:year/:month/:title/
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Pages shown in the header navigation
+header_pages:
+  - about.md
+
+exclude:
+  - README.md

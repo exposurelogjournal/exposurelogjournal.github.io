@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exposurelogjournal.github.io/sitemap.xml
