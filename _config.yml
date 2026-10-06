@@ -23,7 +23,7 @@ header_pages:
 exclude:
   - README.md
 
-# Keep the search engine verification file out of sitemap.xml
+# Keep the Google verification file out of sitemap.xml
 defaults:
   - scope:
       path: "google19dd92f19071d29b.html"
